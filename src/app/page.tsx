@@ -3,10 +3,7 @@ import {allowedDisplayValues} from "next/dist/compiled/@next/font/dist/constants
 
 const Page = () => {
     return (
-        <>
         <div className={cn("text-red-500 font-extrabold")}>Hello there!</div>
-        <div>Another div</div>
-        </>
     )
 }
 export default Page
