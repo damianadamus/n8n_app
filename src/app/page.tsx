@@ -11,6 +11,9 @@ const Page = () => {
             <Button>
                 Click me
             </Button>
+            <Button>
+                Delete
+            </Button>
         </div>
     )
 }
