@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e290af83-9b46-47bd-8188-8a84fb5defb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dev.nx.console.last_ai_configure_notification_timestamp": "1764754004420",
@@ -71,7 +74,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "/Users/damian/WebstormProjects/n8n_app/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/damian/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,7 +96,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
       </set>
     </attachedChunks>
   </component>
@@ -108,11 +111,24 @@
       <workItem from="1763060230651" duration="1221000" />
       <workItem from="1763143573476" duration="600000" />
       <workItem from="1763158912335" duration="8503000" />
-      <workItem from="1764620708423" duration="6083000" />
+      <workItem from="1764620708423" duration="7331000" />
+      <workItem from="1765209286303" duration="3509000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/page.tsx</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
