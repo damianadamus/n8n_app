@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290af83-9b46-47bd-8188-8a84fb5defb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/api/trpc/[trpc]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trpc/server.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trpc/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/client.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trpc/query-client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/query-client.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trpc/routers/_app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/routers/_app.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +64,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "dev.nx.console.last_ai_configure_notification_timestamp": "1764754004420",
+    "dev.nx.console.last_ai_configure_notification_timestamp": "1765363228747",
     "git-widget-placeholder": "main",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
@@ -110,7 +115,7 @@
       <workItem from="1763143573476" duration="600000" />
       <workItem from="1763158912335" duration="8503000" />
       <workItem from="1764620708423" duration="7331000" />
-      <workItem from="1765209286303" duration="4888000" />
+      <workItem from="1765209286303" duration="6882000" />
     </task>
     <servers />
   </component>
