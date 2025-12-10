@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e290af83-9b46-47bd-8188-8a84fb5defb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/trpc/server.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/client.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trpc/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/client.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trpc/query-client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/query-client.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trpc/routers/_app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/trpc/routers/_app.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +77,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+      <recent name="$PROJECT_DIR$/src/" />
+      <recent name="$PROJECT_DIR$/src/app/" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -115,7 +118,7 @@
       <workItem from="1763143573476" duration="600000" />
       <workItem from="1763158912335" duration="8503000" />
       <workItem from="1764620708423" duration="7331000" />
-      <workItem from="1765209286303" duration="6882000" />
+      <workItem from="1765209286303" duration="8985000" />
     </task>
     <servers />
   </component>
